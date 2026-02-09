@@ -1,0 +1,54 @@
+{
+  "demo_cases": [
+    {
+      "id": "demo_001",
+      "query": "How do I solve quadratic equations?",
+      "description": "Student asking about solving quadratic equations",
+      "expected_topics": [
+        "Quadratic Equations",
+        "Factoring",
+        "Quadratic Formula"
+      ],
+      "category": "Math"
+    },
+    {
+      "id": "demo_002",
+      "query": "What is subject-verb agreement?",
+      "description": "Student asking about grammar rule",
+      "expected_topics": [
+        "Subject-Verb Agreement"
+      ],
+      "category": "Writing"
+    },
+    {
+      "id": "demo_003",
+      "query": "I need help understanding the Pythagorean theorem",
+      "description": "Student asking about geometry concept",
+      "expected_topics": [
+        "Triangles",
+        "Pythagorean Theorem"
+      ],
+      "category": "Math"
+    },
+    {
+      "id": "demo_004",
+      "query": "How can I find the main idea of a reading passage?",
+      "description": "Student asking about reading comprehension strategy",
+      "expected_topics": [
+        "Main Idea Identification",
+        "Reading Comprehension"
+      ],
+      "category": "Reading"
+    },
+    {
+      "id": "demo_005",
+      "query": "What are context clues and how do I use them?",
+      "description": "Student asking about vocabulary strategy",
+      "expected_topics": [
+        "Context Clues",
+        "Vocabulary"
+      ],
+      "category": "Reading"
+    }
+  ]
+}

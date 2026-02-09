@@ -1,0 +1,2430 @@
+{
+  "source": "College Board",
+  "extraction_date": "2026-02-06",
+  "knowledge_points": [
+    {
+      "id": "CB_MATH_LINEAR_EQUATION",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear equations in one variable",
+      "description": "Linear equations in one variable is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Linear equations in one variable",
+        "Application strategies for Linear equations in one variable",
+        "Common patterns and variations in Linear equations in one variable",
+        "Problem-solving approaches using Linear equations in one variable"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Linear equations in one variable",
+      "example_solution": "Detailed solution approach for Linear equations in one variable problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LINEAR_EQUATION",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear equations in two variables",
+      "description": "Linear equations in two variables is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Linear equations in two variables",
+        "Application strategies for Linear equations in two variables",
+        "Common patterns and variations in Linear equations in two variables",
+        "Problem-solving approaches using Linear equations in two variables"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Linear equations in two variables",
+      "example_solution": "Detailed solution approach for Linear equations in two variables problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LINEAR_FUNCTION",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear functions",
+      "description": "Linear functions is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Linear functions",
+        "Application strategies for Linear functions",
+        "Common patterns and variations in Linear functions",
+        "Problem-solving approaches using Linear functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Linear functions",
+      "example_solution": "Detailed solution approach for Linear functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_SYSTEMS_OF_LINE",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Systems of linear equations word problems",
+      "description": "Systems of linear equations word problems is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Systems of linear equations word problems",
+        "Application strategies for Systems of linear equations word problems",
+        "Common patterns and variations in Systems of linear equations word problems",
+        "Problem-solving approaches using Systems of linear equations word problems"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Systems of linear equations word problems",
+      "example_solution": "Detailed solution approach for Systems of linear equations word problems problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LINEAR_INEQUALI",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear inequalities in one or two variables",
+      "description": "Linear inequalities in one or two variables is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Linear inequalities in one or two variables",
+        "Application strategies for Linear inequalities in one or two variables",
+        "Common patterns and variations in Linear inequalities in one or two variables",
+        "Problem-solving approaches using Linear inequalities in one or two variables"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Linear inequalities in one or two variables",
+      "example_solution": "Detailed solution approach for Linear inequalities in one or two variables problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_GRAPHING_LINEAR",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Graphing linear equations",
+      "description": "Graphing linear equations is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Graphing linear equations",
+        "Application strategies for Graphing linear equations",
+        "Common patterns and variations in Graphing linear equations",
+        "Problem-solving approaches using Graphing linear equations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Graphing linear equations",
+      "example_solution": "Detailed solution approach for Graphing linear equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_QUADRATIC_EQUAT",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Quadratic equations",
+      "description": "Quadratic equations is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Quadratic equations",
+        "Application strategies for Quadratic equations",
+        "Common patterns and variations in Quadratic equations",
+        "Problem-solving approaches using Quadratic equations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Quadratic equations",
+      "example_solution": "Detailed solution approach for Quadratic equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_QUADRATIC_FUNCT",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Quadratic functions",
+      "description": "Quadratic functions is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Quadratic functions",
+        "Application strategies for Quadratic functions",
+        "Common patterns and variations in Quadratic functions",
+        "Problem-solving approaches using Quadratic functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Quadratic functions",
+      "example_solution": "Detailed solution approach for Quadratic functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_FACTORING_QUADR",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Factoring quadratics",
+      "description": "Factoring quadratics is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Factoring quadratics",
+        "Application strategies for Factoring quadratics",
+        "Common patterns and variations in Factoring quadratics",
+        "Problem-solving approaches using Factoring quadratics"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Factoring quadratics",
+      "example_solution": "Detailed solution approach for Factoring quadratics problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_COMPLETING_THE_",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Completing the square",
+      "description": "Completing the square is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Completing the square",
+        "Application strategies for Completing the square",
+        "Common patterns and variations in Completing the square",
+        "Problem-solving approaches using Completing the square"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Completing the square",
+      "example_solution": "Detailed solution approach for Completing the square problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_QUADRATIC_FORMU",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Quadratic formula",
+      "description": "Quadratic formula is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Quadratic formula",
+        "Application strategies for Quadratic formula",
+        "Common patterns and variations in Quadratic formula",
+        "Problem-solving approaches using Quadratic formula"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Quadratic formula",
+      "example_solution": "Detailed solution approach for Quadratic formula problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_GRAPHING_QUADRA",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Graphing quadratic functions",
+      "description": "Graphing quadratic functions is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Graphing quadratic functions",
+        "Application strategies for Graphing quadratic functions",
+        "Common patterns and variations in Graphing quadratic functions",
+        "Problem-solving approaches using Graphing quadratic functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Graphing quadratic functions",
+      "example_solution": "Detailed solution approach for Graphing quadratic functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_POLYNOMIALS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Polynomials",
+      "description": "Polynomials is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Polynomials",
+        "Application strategies for Polynomials",
+        "Common patterns and variations in Polynomials",
+        "Problem-solving approaches using Polynomials"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Polynomials",
+      "example_solution": "Detailed solution approach for Polynomials problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_POLYNOMIAL_OPER",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Polynomial operations",
+      "description": "Polynomial operations is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Polynomial operations",
+        "Application strategies for Polynomial operations",
+        "Common patterns and variations in Polynomial operations",
+        "Problem-solving approaches using Polynomial operations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Polynomial operations",
+      "example_solution": "Detailed solution approach for Polynomial operations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_POLYNOMIAL_FACT",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Polynomial factoring",
+      "description": "Polynomial factoring is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Polynomial factoring",
+        "Application strategies for Polynomial factoring",
+        "Common patterns and variations in Polynomial factoring",
+        "Problem-solving approaches using Polynomial factoring"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Polynomial factoring",
+      "example_solution": "Detailed solution approach for Polynomial factoring problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RATIONAL_EXPRES",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Rational expressions",
+      "description": "Rational expressions is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Rational expressions",
+        "Application strategies for Rational expressions",
+        "Common patterns and variations in Rational expressions",
+        "Problem-solving approaches using Rational expressions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Rational expressions",
+      "example_solution": "Detailed solution approach for Rational expressions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RATIONAL_EQUATI",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Rational equations",
+      "description": "Rational equations is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Rational equations",
+        "Application strategies for Rational equations",
+        "Common patterns and variations in Rational equations",
+        "Problem-solving approaches using Rational equations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Rational equations",
+      "example_solution": "Detailed solution approach for Rational equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RADICALS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Radicals",
+      "description": "Radicals is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Radicals",
+        "Application strategies for Radicals",
+        "Common patterns and variations in Radicals",
+        "Problem-solving approaches using Radicals"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Radicals",
+      "example_solution": "Detailed solution approach for Radicals problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RADICAL_EQUATIO",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Radical equations",
+      "description": "Radical equations is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Radical equations",
+        "Application strategies for Radical equations",
+        "Common patterns and variations in Radical equations",
+        "Problem-solving approaches using Radical equations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Radical equations",
+      "example_solution": "Detailed solution approach for Radical equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_EXPONENTS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Exponents",
+      "description": "Exponents is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Exponents",
+        "Application strategies for Exponents",
+        "Common patterns and variations in Exponents",
+        "Problem-solving approaches using Exponents"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Exponents",
+      "example_solution": "Detailed solution approach for Exponents problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_EXPONENTIAL_FUN",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Exponential functions",
+      "description": "Exponential functions is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Exponential functions",
+        "Application strategies for Exponential functions",
+        "Common patterns and variations in Exponential functions",
+        "Problem-solving approaches using Exponential functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Exponential functions",
+      "example_solution": "Detailed solution approach for Exponential functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_EXPONENTIAL_EQU",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Exponential equations",
+      "description": "Exponential equations is a fundamental concept in SAT mathematics, specifically in the Algebra domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Exponential equations",
+        "Application strategies for Exponential equations",
+        "Common patterns and variations in Exponential equations",
+        "Problem-solving approaches using Exponential equations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Exponential equations",
+      "example_solution": "Detailed solution approach for Exponential equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_NONLINEAR_FUNCT",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Nonlinear functions",
+      "description": "Nonlinear functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Nonlinear functions",
+        "Application strategies for Nonlinear functions",
+        "Common patterns and variations in Nonlinear functions",
+        "Problem-solving approaches using Nonlinear functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Nonlinear functions",
+      "example_solution": "Detailed solution approach for Nonlinear functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_POLYNOMIAL_FUNC",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Polynomial functions",
+      "description": "Polynomial functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Polynomial functions",
+        "Application strategies for Polynomial functions",
+        "Common patterns and variations in Polynomial functions",
+        "Problem-solving approaches using Polynomial functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Polynomial functions",
+      "example_solution": "Detailed solution approach for Polynomial functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RATIONAL_FUNCTI",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Rational functions",
+      "description": "Rational functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Rational functions",
+        "Application strategies for Rational functions",
+        "Common patterns and variations in Rational functions",
+        "Problem-solving approaches using Rational functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Rational functions",
+      "example_solution": "Detailed solution approach for Rational functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RADICAL_FUNCTIO",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Radical functions",
+      "description": "Radical functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Radical functions",
+        "Application strategies for Radical functions",
+        "Common patterns and variations in Radical functions",
+        "Problem-solving approaches using Radical functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Radical functions",
+      "example_solution": "Detailed solution approach for Radical functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_EXPONENTIAL_FUN",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Exponential functions",
+      "description": "Exponential functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Exponential functions",
+        "Application strategies for Exponential functions",
+        "Common patterns and variations in Exponential functions",
+        "Problem-solving approaches using Exponential functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Exponential functions",
+      "example_solution": "Detailed solution approach for Exponential functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LOGARITHMIC_FUN",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Logarithmic functions",
+      "description": "Logarithmic functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Logarithmic functions",
+        "Application strategies for Logarithmic functions",
+        "Common patterns and variations in Logarithmic functions",
+        "Problem-solving approaches using Logarithmic functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Logarithmic functions",
+      "example_solution": "Detailed solution approach for Logarithmic functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_TRIGONOMETRIC_F",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Trigonometric functions",
+      "description": "Trigonometric functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Trigonometric functions",
+        "Application strategies for Trigonometric functions",
+        "Common patterns and variations in Trigonometric functions",
+        "Problem-solving approaches using Trigonometric functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Trigonometric functions",
+      "example_solution": "Detailed solution approach for Trigonometric functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_FUNCTION_OPERAT",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Function operations",
+      "description": "Function operations is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Function operations",
+        "Application strategies for Function operations",
+        "Common patterns and variations in Function operations",
+        "Problem-solving approaches using Function operations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Function operations",
+      "example_solution": "Detailed solution approach for Function operations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_FUNCTION_COMPOS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Function composition",
+      "description": "Function composition is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Function composition",
+        "Application strategies for Function composition",
+        "Common patterns and variations in Function composition",
+        "Problem-solving approaches using Function composition"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Function composition",
+      "example_solution": "Detailed solution approach for Function composition problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_INVERSE_FUNCTIO",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Inverse functions",
+      "description": "Inverse functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Inverse functions",
+        "Application strategies for Inverse functions",
+        "Common patterns and variations in Inverse functions",
+        "Problem-solving approaches using Inverse functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Inverse functions",
+      "example_solution": "Detailed solution approach for Inverse functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_TRANSFORMATIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Transformations of functions",
+      "description": "Transformations of functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Transformations of functions",
+        "Application strategies for Transformations of functions",
+        "Common patterns and variations in Transformations of functions",
+        "Problem-solving approaches using Transformations of functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Transformations of functions",
+      "example_solution": "Detailed solution approach for Transformations of functions problems",
+      "difficulty": "Hard",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_ANALYZING_FUNCT",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Analyzing functions",
+      "description": "Analyzing functions is a fundamental concept in SAT mathematics, specifically in the Advanced Math domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Analyzing functions",
+        "Application strategies for Analyzing functions",
+        "Common patterns and variations in Analyzing functions",
+        "Problem-solving approaches using Analyzing functions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Analyzing functions",
+      "example_solution": "Detailed solution approach for Analyzing functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RATIOS_AND_PROP",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Ratios and proportions",
+      "description": "Ratios and proportions is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Ratios and proportions",
+        "Application strategies for Ratios and proportions",
+        "Common patterns and variations in Ratios and proportions",
+        "Problem-solving approaches using Ratios and proportions"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Ratios and proportions",
+      "example_solution": "Detailed solution approach for Ratios and proportions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_PERCENTAGES",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Percentages",
+      "description": "Percentages is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Percentages",
+        "Application strategies for Percentages",
+        "Common patterns and variations in Percentages",
+        "Problem-solving approaches using Percentages"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Percentages",
+      "example_solution": "Detailed solution approach for Percentages problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_UNIT_CONVERSION",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Unit conversion",
+      "description": "Unit conversion is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Unit conversion",
+        "Application strategies for Unit conversion",
+        "Common patterns and variations in Unit conversion",
+        "Problem-solving approaches using Unit conversion"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Unit conversion",
+      "example_solution": "Detailed solution approach for Unit conversion problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RATES",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Rates",
+      "description": "Rates is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Rates",
+        "Application strategies for Rates",
+        "Common patterns and variations in Rates",
+        "Problem-solving approaches using Rates"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Rates",
+      "example_solution": "Detailed solution approach for Rates problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LINEAR_AND_EXPO",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Linear and exponential growth",
+      "description": "Linear and exponential growth is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Linear and exponential growth",
+        "Application strategies for Linear and exponential growth",
+        "Common patterns and variations in Linear and exponential growth",
+        "Problem-solving approaches using Linear and exponential growth"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Linear and exponential growth",
+      "example_solution": "Detailed solution approach for Linear and exponential growth problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_STATISTICS",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Statistics",
+      "description": "Statistics is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Statistics",
+        "Application strategies for Statistics",
+        "Common patterns and variations in Statistics",
+        "Problem-solving approaches using Statistics"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Statistics",
+      "example_solution": "Detailed solution approach for Statistics problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_MEAN__MEDIAN__M",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Mean, median, mode",
+      "description": "Mean, median, mode is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Mean, median, mode",
+        "Application strategies for Mean, median, mode",
+        "Common patterns and variations in Mean, median, mode",
+        "Problem-solving approaches using Mean, median, mode"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Mean, median, mode",
+      "example_solution": "Detailed solution approach for Mean, median, mode problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RANGE_AND_STAND",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Range and standard deviation",
+      "description": "Range and standard deviation is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Range and standard deviation",
+        "Application strategies for Range and standard deviation",
+        "Common patterns and variations in Range and standard deviation",
+        "Problem-solving approaches using Range and standard deviation"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Range and standard deviation",
+      "example_solution": "Detailed solution approach for Range and standard deviation problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_DATA_INTERPRETA",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Data interpretation",
+      "description": "Data interpretation is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Data interpretation",
+        "Application strategies for Data interpretation",
+        "Common patterns and variations in Data interpretation",
+        "Problem-solving approaches using Data interpretation"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Data interpretation",
+      "example_solution": "Detailed solution approach for Data interpretation problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_SCATTERPLOTS",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Scatterplots",
+      "description": "Scatterplots is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Scatterplots",
+        "Application strategies for Scatterplots",
+        "Common patterns and variations in Scatterplots",
+        "Problem-solving approaches using Scatterplots"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Scatterplots",
+      "example_solution": "Detailed solution approach for Scatterplots problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LINEAR_MODELS",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Linear models",
+      "description": "Linear models is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Linear models",
+        "Application strategies for Linear models",
+        "Common patterns and variations in Linear models",
+        "Problem-solving approaches using Linear models"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Linear models",
+      "example_solution": "Detailed solution approach for Linear models problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_PROBABILITY",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Probability",
+      "description": "Probability is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Probability",
+        "Application strategies for Probability",
+        "Common patterns and variations in Probability",
+        "Problem-solving approaches using Probability"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Probability",
+      "example_solution": "Detailed solution approach for Probability problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_CONDITIONAL_PRO",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Conditional probability",
+      "description": "Conditional probability is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Conditional probability",
+        "Application strategies for Conditional probability",
+        "Common patterns and variations in Conditional probability",
+        "Problem-solving approaches using Conditional probability"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Conditional probability",
+      "example_solution": "Detailed solution approach for Conditional probability problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_TWO_WAY_TABLES",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Two-way tables",
+      "description": "Two-way tables is a fundamental concept in SAT mathematics, specifically in the Problem Solving and Data Analysis domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Two-way tables",
+        "Application strategies for Two-way tables",
+        "Common patterns and variations in Two-way tables",
+        "Problem-solving approaches using Two-way tables"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Two-way tables",
+      "example_solution": "Detailed solution approach for Two-way tables problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_AREA_AND_VOLUME",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Area and volume",
+      "description": "Area and volume is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Area and volume",
+        "Application strategies for Area and volume",
+        "Common patterns and variations in Area and volume",
+        "Problem-solving approaches using Area and volume"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Area and volume",
+      "example_solution": "Detailed solution approach for Area and volume problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_CIRCLES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Circles",
+      "description": "Circles is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Circles",
+        "Application strategies for Circles",
+        "Common patterns and variations in Circles",
+        "Problem-solving approaches using Circles"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Circles",
+      "example_solution": "Detailed solution approach for Circles problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_CIRCLE_EQUATION",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Circle equations",
+      "description": "Circle equations is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Circle equations",
+        "Application strategies for Circle equations",
+        "Common patterns and variations in Circle equations",
+        "Problem-solving approaches using Circle equations"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Circle equations",
+      "example_solution": "Detailed solution approach for Circle equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_TRIANGLES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Triangles",
+      "description": "Triangles is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Triangles",
+        "Application strategies for Triangles",
+        "Common patterns and variations in Triangles",
+        "Problem-solving approaches using Triangles"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Triangles",
+      "example_solution": "Detailed solution approach for Triangles problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RIGHT_TRIANGLES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Right triangles",
+      "description": "Right triangles is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Right triangles",
+        "Application strategies for Right triangles",
+        "Common patterns and variations in Right triangles",
+        "Problem-solving approaches using Right triangles"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Right triangles",
+      "example_solution": "Detailed solution approach for Right triangles problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_PYTHAGOREAN_THE",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Pythagorean theorem",
+      "description": "Pythagorean theorem is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Pythagorean theorem",
+        "Application strategies for Pythagorean theorem",
+        "Common patterns and variations in Pythagorean theorem",
+        "Problem-solving approaches using Pythagorean theorem"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Pythagorean theorem",
+      "example_solution": "Detailed solution approach for Pythagorean theorem problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_SPECIAL_RIGHT_T",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Special right triangles",
+      "description": "Special right triangles is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Special right triangles",
+        "Application strategies for Special right triangles",
+        "Common patterns and variations in Special right triangles",
+        "Problem-solving approaches using Special right triangles"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Special right triangles",
+      "example_solution": "Detailed solution approach for Special right triangles problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_TRIGONOMETRIC_R",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Trigonometric ratios",
+      "description": "Trigonometric ratios is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Trigonometric ratios",
+        "Application strategies for Trigonometric ratios",
+        "Common patterns and variations in Trigonometric ratios",
+        "Problem-solving approaches using Trigonometric ratios"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Trigonometric ratios",
+      "example_solution": "Detailed solution approach for Trigonometric ratios problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_SINE__COSINE__T",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Sine, cosine, tangent",
+      "description": "Sine, cosine, tangent is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Sine, cosine, tangent",
+        "Application strategies for Sine, cosine, tangent",
+        "Common patterns and variations in Sine, cosine, tangent",
+        "Problem-solving approaches using Sine, cosine, tangent"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Sine, cosine, tangent",
+      "example_solution": "Detailed solution approach for Sine, cosine, tangent problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_UNIT_CIRCLE",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Unit circle",
+      "description": "Unit circle is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Unit circle",
+        "Application strategies for Unit circle",
+        "Common patterns and variations in Unit circle",
+        "Problem-solving approaches using Unit circle"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Unit circle",
+      "example_solution": "Detailed solution approach for Unit circle problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_RADIAN_MEASURE",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Radian measure",
+      "description": "Radian measure is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Radian measure",
+        "Application strategies for Radian measure",
+        "Common patterns and variations in Radian measure",
+        "Problem-solving approaches using Radian measure"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Radian measure",
+      "example_solution": "Detailed solution approach for Radian measure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LAW_OF_SINES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Law of sines",
+      "description": "Law of sines is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Law of sines",
+        "Application strategies for Law of sines",
+        "Common patterns and variations in Law of sines",
+        "Problem-solving approaches using Law of sines"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Law of sines",
+      "example_solution": "Detailed solution approach for Law of sines problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_MATH_LAW_OF_COSINES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Law of cosines",
+      "description": "Law of cosines is a fundamental concept in SAT mathematics, specifically in the Geometry and Trigonometry domain. This topic is tested on the SAT Math section and requires understanding of core mathematical principles.",
+      "key_concepts": [
+        "Core principles of Law of cosines",
+        "Application strategies for Law of cosines",
+        "Common patterns and variations in Law of cosines",
+        "Problem-solving approaches using Law of cosines"
+      ],
+      "common_applications": [
+        "SAT Math section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Math question testing Law of cosines",
+      "example_solution": "Detailed solution approach for Law of cosines problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_READING_FOR_UND",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Reading for understanding",
+      "description": "Reading for understanding is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Reading for understanding",
+        "Application strategies for Reading for understanding",
+        "Common patterns and variations in Reading for understanding",
+        "Problem-solving approaches using Reading for understanding"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Reading for understanding",
+      "example_solution": "Detailed solution approach for Reading for understanding problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_CENTRAL_IDEAS_A",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Central ideas and themes",
+      "description": "Central ideas and themes is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Central ideas and themes",
+        "Application strategies for Central ideas and themes",
+        "Common patterns and variations in Central ideas and themes",
+        "Problem-solving approaches using Central ideas and themes"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Central ideas and themes",
+      "example_solution": "Detailed solution approach for Central ideas and themes problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_SUMMARIZING",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Summarizing",
+      "description": "Summarizing is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Summarizing",
+        "Application strategies for Summarizing",
+        "Common patterns and variations in Summarizing",
+        "Problem-solving approaches using Summarizing"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Summarizing",
+      "example_solution": "Detailed solution approach for Summarizing problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_UNDERSTANDING_R",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Understanding relationships",
+      "description": "Understanding relationships is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Understanding relationships",
+        "Application strategies for Understanding relationships",
+        "Common patterns and variations in Understanding relationships",
+        "Problem-solving approaches using Understanding relationships"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Understanding relationships",
+      "example_solution": "Detailed solution approach for Understanding relationships problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_INTERPRETING_WO",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Interpreting words and phrases in context",
+      "description": "Interpreting words and phrases in context is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Interpreting words and phrases in context",
+        "Application strategies for Interpreting words and phrases in context",
+        "Common patterns and variations in Interpreting words and phrases in context",
+        "Problem-solving approaches using Interpreting words and phrases in context"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Interpreting words and phrases in context",
+      "example_solution": "Detailed solution approach for Interpreting words and phrases in context problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_TEXT_",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing text structure",
+      "description": "Analyzing text structure is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing text structure",
+        "Application strategies for Analyzing text structure",
+        "Common patterns and variations in Analyzing text structure",
+        "Problem-solving approaches using Analyzing text structure"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing text structure",
+      "example_solution": "Detailed solution approach for Analyzing text structure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_POINT",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing point of view",
+      "description": "Analyzing point of view is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing point of view",
+        "Application strategies for Analyzing point of view",
+        "Common patterns and variations in Analyzing point of view",
+        "Problem-solving approaches using Analyzing point of view"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing point of view",
+      "example_solution": "Detailed solution approach for Analyzing point of view problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_PURPO",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing purpose",
+      "description": "Analyzing purpose is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing purpose",
+        "Application strategies for Analyzing purpose",
+        "Common patterns and variations in Analyzing purpose",
+        "Problem-solving approaches using Analyzing purpose"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing purpose",
+      "example_solution": "Detailed solution approach for Analyzing purpose problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_ARGUM",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing arguments",
+      "description": "Analyzing arguments is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing arguments",
+        "Application strategies for Analyzing arguments",
+        "Common patterns and variations in Analyzing arguments",
+        "Problem-solving approaches using Analyzing arguments"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing arguments",
+      "example_solution": "Detailed solution approach for Analyzing arguments problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_COMMAND_OF_EVID",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Command of evidence",
+      "description": "Command of evidence is a critical skill assessed on the SAT Reading section, falling under Information and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Command of evidence",
+        "Application strategies for Command of evidence",
+        "Common patterns and variations in Command of evidence",
+        "Problem-solving approaches using Command of evidence"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Command of evidence",
+      "example_solution": "Detailed solution approach for Command of evidence problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_WORD_",
+      "category": "Reading",
+      "subcategory": "Craft and Structure",
+      "topic": "Analyzing word choice",
+      "description": "Analyzing word choice is a critical skill assessed on the SAT Reading section, falling under Craft and Structure. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing word choice",
+        "Application strategies for Analyzing word choice",
+        "Common patterns and variations in Analyzing word choice",
+        "Problem-solving approaches using Analyzing word choice"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing word choice",
+      "example_solution": "Detailed solution approach for Analyzing word choice problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_TEXT_",
+      "category": "Reading",
+      "subcategory": "Craft and Structure",
+      "topic": "Analyzing text structure",
+      "description": "Analyzing text structure is a critical skill assessed on the SAT Reading section, falling under Craft and Structure. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing text structure",
+        "Application strategies for Analyzing text structure",
+        "Common patterns and variations in Analyzing text structure",
+        "Problem-solving approaches using Analyzing text structure"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing text structure",
+      "example_solution": "Detailed solution approach for Analyzing text structure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_POINT",
+      "category": "Reading",
+      "subcategory": "Craft and Structure",
+      "topic": "Analyzing point of view",
+      "description": "Analyzing point of view is a critical skill assessed on the SAT Reading section, falling under Craft and Structure. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing point of view",
+        "Application strategies for Analyzing point of view",
+        "Common patterns and variations in Analyzing point of view",
+        "Problem-solving approaches using Analyzing point of view"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing point of view",
+      "example_solution": "Detailed solution approach for Analyzing point of view problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_PURPO",
+      "category": "Reading",
+      "subcategory": "Craft and Structure",
+      "topic": "Analyzing purpose",
+      "description": "Analyzing purpose is a critical skill assessed on the SAT Reading section, falling under Craft and Structure. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing purpose",
+        "Application strategies for Analyzing purpose",
+        "Common patterns and variations in Analyzing purpose",
+        "Problem-solving approaches using Analyzing purpose"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing purpose",
+      "example_solution": "Detailed solution approach for Analyzing purpose problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_ARGUM",
+      "category": "Reading",
+      "subcategory": "Craft and Structure",
+      "topic": "Analyzing arguments",
+      "description": "Analyzing arguments is a critical skill assessed on the SAT Reading section, falling under Craft and Structure. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing arguments",
+        "Application strategies for Analyzing arguments",
+        "Common patterns and variations in Analyzing arguments",
+        "Problem-solving approaches using Analyzing arguments"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing arguments",
+      "example_solution": "Detailed solution approach for Analyzing arguments problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_UNDERSTANDING_R",
+      "category": "Reading",
+      "subcategory": "Craft and Structure",
+      "topic": "Understanding rhetorical devices",
+      "description": "Understanding rhetorical devices is a critical skill assessed on the SAT Reading section, falling under Craft and Structure. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Understanding rhetorical devices",
+        "Application strategies for Understanding rhetorical devices",
+        "Common patterns and variations in Understanding rhetorical devices",
+        "Problem-solving approaches using Understanding rhetorical devices"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Understanding rhetorical devices",
+      "example_solution": "Detailed solution approach for Understanding rhetorical devices problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_ANALYZING_MULTI",
+      "category": "Reading",
+      "subcategory": "Integration of Knowledge and Ideas",
+      "topic": "Analyzing multiple texts",
+      "description": "Analyzing multiple texts is a critical skill assessed on the SAT Reading section, falling under Integration of Knowledge and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Analyzing multiple texts",
+        "Application strategies for Analyzing multiple texts",
+        "Common patterns and variations in Analyzing multiple texts",
+        "Problem-solving approaches using Analyzing multiple texts"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Analyzing multiple texts",
+      "example_solution": "Detailed solution approach for Analyzing multiple texts problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_UNDERSTANDING_R",
+      "category": "Reading",
+      "subcategory": "Integration of Knowledge and Ideas",
+      "topic": "Understanding relationships between texts",
+      "description": "Understanding relationships between texts is a critical skill assessed on the SAT Reading section, falling under Integration of Knowledge and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Understanding relationships between texts",
+        "Application strategies for Understanding relationships between texts",
+        "Common patterns and variations in Understanding relationships between texts",
+        "Problem-solving approaches using Understanding relationships between texts"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Understanding relationships between texts",
+      "example_solution": "Detailed solution approach for Understanding relationships between texts problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_SYNTHESIZING_IN",
+      "category": "Reading",
+      "subcategory": "Integration of Knowledge and Ideas",
+      "topic": "Synthesizing information",
+      "description": "Synthesizing information is a critical skill assessed on the SAT Reading section, falling under Integration of Knowledge and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Synthesizing information",
+        "Application strategies for Synthesizing information",
+        "Common patterns and variations in Synthesizing information",
+        "Problem-solving approaches using Synthesizing information"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Synthesizing information",
+      "example_solution": "Detailed solution approach for Synthesizing information problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_READ_EVALUATING_ARGU",
+      "category": "Reading",
+      "subcategory": "Integration of Knowledge and Ideas",
+      "topic": "Evaluating arguments",
+      "description": "Evaluating arguments is a critical skill assessed on the SAT Reading section, falling under Integration of Knowledge and Ideas. Mastery of this concept is essential for analyzing and understanding various types of passages.",
+      "key_concepts": [
+        "Core principles of Evaluating arguments",
+        "Application strategies for Evaluating arguments",
+        "Common patterns and variations in Evaluating arguments",
+        "Problem-solving approaches using Evaluating arguments"
+      ],
+      "common_applications": [
+        "SAT Reading section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Reading question testing Evaluating arguments",
+      "example_solution": "Detailed solution approach for Evaluating arguments problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_DEVELOPMENT",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Development",
+      "description": "Development is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Development",
+        "Application strategies for Development",
+        "Common patterns and variations in Development",
+        "Problem-solving approaches using Development"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Development",
+      "example_solution": "Detailed solution approach for Development problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_ORGANIZATION",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Organization",
+      "description": "Organization is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Organization",
+        "Application strategies for Organization",
+        "Common patterns and variations in Organization",
+        "Problem-solving approaches using Organization"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Organization",
+      "example_solution": "Detailed solution approach for Organization problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_EFFECTIVE_LANGU",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Effective language use",
+      "description": "Effective language use is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Effective language use",
+        "Application strategies for Effective language use",
+        "Common patterns and variations in Effective language use",
+        "Problem-solving approaches using Effective language use"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Effective language use",
+      "example_solution": "Detailed solution approach for Effective language use problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_PRECISION",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Precision",
+      "description": "Precision is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Precision",
+        "Application strategies for Precision",
+        "Common patterns and variations in Precision",
+        "Problem-solving approaches using Precision"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Precision",
+      "example_solution": "Detailed solution approach for Precision problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_CONCISE_WRITING",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Concise writing",
+      "description": "Concise writing is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Concise writing",
+        "Application strategies for Concise writing",
+        "Common patterns and variations in Concise writing",
+        "Problem-solving approaches using Concise writing"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Concise writing",
+      "example_solution": "Detailed solution approach for Concise writing problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_STYLE_AND_TONE",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Style and tone",
+      "description": "Style and tone is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Style and tone",
+        "Application strategies for Style and tone",
+        "Common patterns and variations in Style and tone",
+        "Problem-solving approaches using Style and tone"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Style and tone",
+      "example_solution": "Detailed solution approach for Style and tone problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_SENTENCE_VARIET",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Sentence variety",
+      "description": "Sentence variety is an important grammar and writing convention tested on the SAT Writing section, categorized under Expression of Ideas. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Sentence variety",
+        "Application strategies for Sentence variety",
+        "Common patterns and variations in Sentence variety",
+        "Problem-solving approaches using Sentence variety"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Sentence variety",
+      "example_solution": "Detailed solution approach for Sentence variety problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_SENTENCE_STRUCT",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Sentence structure",
+      "description": "Sentence structure is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Sentence structure",
+        "Application strategies for Sentence structure",
+        "Common patterns and variations in Sentence structure",
+        "Problem-solving approaches using Sentence structure"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Sentence structure",
+      "example_solution": "Detailed solution approach for Sentence structure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_CONVENTIONS_OF_",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Conventions of usage",
+      "description": "Conventions of usage is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Conventions of usage",
+        "Application strategies for Conventions of usage",
+        "Common patterns and variations in Conventions of usage",
+        "Problem-solving approaches using Conventions of usage"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Conventions of usage",
+      "example_solution": "Detailed solution approach for Conventions of usage problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_CONVENTIONS_OF_",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Conventions of punctuation",
+      "description": "Conventions of punctuation is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Conventions of punctuation",
+        "Application strategies for Conventions of punctuation",
+        "Common patterns and variations in Conventions of punctuation",
+        "Problem-solving approaches using Conventions of punctuation"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Conventions of punctuation",
+      "example_solution": "Detailed solution approach for Conventions of punctuation problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_SUBJECT_VERB_AG",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Subject-verb agreement",
+      "description": "Subject-verb agreement is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Subject-verb agreement",
+        "Application strategies for Subject-verb agreement",
+        "Common patterns and variations in Subject-verb agreement",
+        "Problem-solving approaches using Subject-verb agreement"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Subject-verb agreement",
+      "example_solution": "Detailed solution approach for Subject-verb agreement problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_PRONOUN_AGREEME",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Pronoun agreement",
+      "description": "Pronoun agreement is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Pronoun agreement",
+        "Application strategies for Pronoun agreement",
+        "Common patterns and variations in Pronoun agreement",
+        "Problem-solving approaches using Pronoun agreement"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Pronoun agreement",
+      "example_solution": "Detailed solution approach for Pronoun agreement problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_VERB_FORMS",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Verb forms",
+      "description": "Verb forms is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Verb forms",
+        "Application strategies for Verb forms",
+        "Common patterns and variations in Verb forms",
+        "Problem-solving approaches using Verb forms"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Verb forms",
+      "example_solution": "Detailed solution approach for Verb forms problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_MODIFIERS",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Modifiers",
+      "description": "Modifiers is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Modifiers",
+        "Application strategies for Modifiers",
+        "Common patterns and variations in Modifiers",
+        "Problem-solving approaches using Modifiers"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Modifiers",
+      "example_solution": "Detailed solution approach for Modifiers problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_PARALLEL_STRUCT",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Parallel structure",
+      "description": "Parallel structure is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Parallel structure",
+        "Application strategies for Parallel structure",
+        "Common patterns and variations in Parallel structure",
+        "Problem-solving approaches using Parallel structure"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Parallel structure",
+      "example_solution": "Detailed solution approach for Parallel structure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_COMMA_USAGE",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Comma usage",
+      "description": "Comma usage is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Comma usage",
+        "Application strategies for Comma usage",
+        "Common patterns and variations in Comma usage",
+        "Problem-solving approaches using Comma usage"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Comma usage",
+      "example_solution": "Detailed solution approach for Comma usage problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_APOSTROPHES",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Apostrophes",
+      "description": "Apostrophes is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Apostrophes",
+        "Application strategies for Apostrophes",
+        "Common patterns and variations in Apostrophes",
+        "Problem-solving approaches using Apostrophes"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Apostrophes",
+      "example_solution": "Detailed solution approach for Apostrophes problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_COLONS_AND_SEMI",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Colons and semicolons",
+      "description": "Colons and semicolons is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Colons and semicolons",
+        "Application strategies for Colons and semicolons",
+        "Common patterns and variations in Colons and semicolons",
+        "Problem-solving approaches using Colons and semicolons"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Colons and semicolons",
+      "example_solution": "Detailed solution approach for Colons and semicolons problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_DASHES_AND_PARE",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Dashes and parentheses",
+      "description": "Dashes and parentheses is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Dashes and parentheses",
+        "Application strategies for Dashes and parentheses",
+        "Common patterns and variations in Dashes and parentheses",
+        "Problem-solving approaches using Dashes and parentheses"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Dashes and parentheses",
+      "example_solution": "Detailed solution approach for Dashes and parentheses problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    },
+    {
+      "id": "CB_WRITE_QUOTATION_MARKS",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Quotation marks",
+      "description": "Quotation marks is an important grammar and writing convention tested on the SAT Writing section, categorized under Standard English Conventions. Proper understanding ensures accurate answers on the exam.",
+      "key_concepts": [
+        "Core principles of Quotation marks",
+        "Application strategies for Quotation marks",
+        "Common patterns and variations in Quotation marks",
+        "Problem-solving approaches using Quotation marks"
+      ],
+      "common_applications": [
+        "SAT Writing section questions",
+        "Real-world problem solving",
+        "Test-taking strategies",
+        "Practice problem types"
+      ],
+      "example_problem": "Sample SAT Writing question testing Quotation marks",
+      "example_solution": "Detailed solution approach for Quotation marks problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "College Board"
+    }
+  ]
+}

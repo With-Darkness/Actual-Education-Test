@@ -1,0 +1,1134 @@
+{
+  "source": "Educational Resources",
+  "extraction_date": "2026-02-06",
+  "knowledge_points": [
+    {
+      "id": "EDU_MATH_ABSOLUTE_VALUE_",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Absolute value equations",
+      "description": "Absolute value equations is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Absolute value equations",
+        "Key principles of Absolute value equations",
+        "Application of Absolute value equations",
+        "Common patterns in Absolute value equations"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Absolute value equations",
+      "example_solution": "Step-by-step approach to solving Absolute value equations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_ABSOLUTE_VALUE_",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Absolute value inequalities",
+      "description": "Absolute value inequalities is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Absolute value inequalities",
+        "Key principles of Absolute value inequalities",
+        "Application of Absolute value inequalities",
+        "Common patterns in Absolute value inequalities"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Absolute value inequalities",
+      "example_solution": "Step-by-step approach to solving Absolute value inequalities problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_PIECEWISE_FUNCT",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Piecewise functions",
+      "description": "Piecewise functions is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Piecewise functions",
+        "Key principles of Piecewise functions",
+        "Application of Piecewise functions",
+        "Common patterns in Piecewise functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Piecewise functions",
+      "example_solution": "Step-by-step approach to solving Piecewise functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_STEP_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Step functions",
+      "description": "Step functions is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Step functions",
+        "Key principles of Step functions",
+        "Application of Step functions",
+        "Common patterns in Step functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Step functions",
+      "example_solution": "Step-by-step approach to solving Step functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_DOMAIN_AND_RANG",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Domain and range",
+      "description": "Domain and range is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Domain and range",
+        "Key principles of Domain and range",
+        "Application of Domain and range",
+        "Common patterns in Domain and range"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Domain and range",
+      "example_solution": "Step-by-step approach to solving Domain and range problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_FUNCTION_NOTATI",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Function notation",
+      "description": "Function notation is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Function notation",
+        "Key principles of Function notation",
+        "Application of Function notation",
+        "Common patterns in Function notation"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Function notation",
+      "example_solution": "Step-by-step approach to solving Function notation problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_FUNCTION_TRANSF",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Function transformations",
+      "description": "Function transformations is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Function transformations",
+        "Key principles of Function transformations",
+        "Application of Function transformations",
+        "Common patterns in Function transformations"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Function transformations",
+      "example_solution": "Step-by-step approach to solving Function transformations problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_INVERSE_FUNCTIO",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Inverse functions",
+      "description": "Inverse functions is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Inverse functions",
+        "Key principles of Inverse functions",
+        "Application of Inverse functions",
+        "Common patterns in Inverse functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Inverse functions",
+      "example_solution": "Step-by-step approach to solving Inverse functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_COMPOSITE_FUNCT",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Composite functions",
+      "description": "Composite functions is an important mathematical concept covered in SAT preparation, specifically within Algebra. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Composite functions",
+        "Key principles of Composite functions",
+        "Application of Composite functions",
+        "Common patterns in Composite functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Composite functions",
+      "example_solution": "Step-by-step approach to solving Composite functions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_NORMAL_DISTRIBU",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Normal distribution",
+      "description": "Normal distribution is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Normal distribution",
+        "Key principles of Normal distribution",
+        "Application of Normal distribution",
+        "Common patterns in Normal distribution"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Normal distribution",
+      "example_solution": "Step-by-step approach to solving Normal distribution problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_Z_SCORES",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Z-scores",
+      "description": "Z-scores is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Z-scores",
+        "Key principles of Z-scores",
+        "Application of Z-scores",
+        "Common patterns in Z-scores"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Z-scores",
+      "example_solution": "Step-by-step approach to solving Z-scores problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_CONFIDENCE_INTE",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Confidence intervals",
+      "description": "Confidence intervals is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Confidence intervals",
+        "Key principles of Confidence intervals",
+        "Application of Confidence intervals",
+        "Common patterns in Confidence intervals"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Confidence intervals",
+      "example_solution": "Step-by-step approach to solving Confidence intervals problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_SAMPLING_METHOD",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Sampling methods",
+      "description": "Sampling methods is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Sampling methods",
+        "Key principles of Sampling methods",
+        "Application of Sampling methods",
+        "Common patterns in Sampling methods"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Sampling methods",
+      "example_solution": "Step-by-step approach to solving Sampling methods problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_BIAS_IN_SAMPLIN",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Bias in sampling",
+      "description": "Bias in sampling is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Bias in sampling",
+        "Key principles of Bias in sampling",
+        "Application of Bias in sampling",
+        "Common patterns in Bias in sampling"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Bias in sampling",
+      "example_solution": "Step-by-step approach to solving Bias in sampling problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_CORRELATION_VS_",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Correlation vs causation",
+      "description": "Correlation vs causation is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Correlation vs causation",
+        "Key principles of Correlation vs causation",
+        "Application of Correlation vs causation",
+        "Common patterns in Correlation vs causation"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Correlation vs causation",
+      "example_solution": "Step-by-step approach to solving Correlation vs causation problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_REGRESSION_ANAL",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Regression analysis",
+      "description": "Regression analysis is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Regression analysis",
+        "Key principles of Regression analysis",
+        "Application of Regression analysis",
+        "Common patterns in Regression analysis"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Regression analysis",
+      "example_solution": "Step-by-step approach to solving Regression analysis problems",
+      "difficulty": "Hard",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_OUTLIERS",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Outliers",
+      "description": "Outliers is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Outliers",
+        "Key principles of Outliers",
+        "Application of Outliers",
+        "Common patterns in Outliers"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Outliers",
+      "example_solution": "Step-by-step approach to solving Outliers problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_BOX_PLOTS",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Box plots",
+      "description": "Box plots is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Box plots",
+        "Key principles of Box plots",
+        "Application of Box plots",
+        "Common patterns in Box plots"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Box plots",
+      "example_solution": "Step-by-step approach to solving Box plots problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_MATH_HISTOGRAMS",
+      "category": "Math",
+      "subcategory": "Statistics",
+      "topic": "Histograms",
+      "description": "Histograms is an important mathematical concept covered in SAT preparation, specifically within Statistics. Understanding this topic helps students solve a variety of SAT math problems.",
+      "key_concepts": [
+        "Understanding Histograms",
+        "Key principles of Histograms",
+        "Application of Histograms",
+        "Common patterns in Histograms"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Math question involving Histograms",
+      "example_solution": "Step-by-step approach to solving Histograms problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_CONTEXT_CLUES",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Context clues",
+      "description": "Context clues is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Context clues",
+        "Key principles of Context clues",
+        "Application of Context clues",
+        "Common patterns in Context clues"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Context clues",
+      "example_solution": "Step-by-step approach to solving Context clues problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_WORD_ROOTS_AND_",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Word roots and etymology",
+      "description": "Word roots and etymology is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Word roots and etymology",
+        "Key principles of Word roots and etymology",
+        "Application of Word roots and etymology",
+        "Common patterns in Word roots and etymology"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Word roots and etymology",
+      "example_solution": "Step-by-step approach to solving Word roots and etymology problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_PREFIXES_AND_SU",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Prefixes and suffixes",
+      "description": "Prefixes and suffixes is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Prefixes and suffixes",
+        "Key principles of Prefixes and suffixes",
+        "Application of Prefixes and suffixes",
+        "Common patterns in Prefixes and suffixes"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Prefixes and suffixes",
+      "example_solution": "Step-by-step approach to solving Prefixes and suffixes problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_SYNONYMS_AND_AN",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Synonyms and antonyms",
+      "description": "Synonyms and antonyms is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Synonyms and antonyms",
+        "Key principles of Synonyms and antonyms",
+        "Application of Synonyms and antonyms",
+        "Common patterns in Synonyms and antonyms"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Synonyms and antonyms",
+      "example_solution": "Step-by-step approach to solving Synonyms and antonyms problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_CONNOTATION_VS_",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Connotation vs denotation",
+      "description": "Connotation vs denotation is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Connotation vs denotation",
+        "Key principles of Connotation vs denotation",
+        "Application of Connotation vs denotation",
+        "Common patterns in Connotation vs denotation"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Connotation vs denotation",
+      "example_solution": "Step-by-step approach to solving Connotation vs denotation problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_TONE_WORDS",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Tone words",
+      "description": "Tone words is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Tone words",
+        "Key principles of Tone words",
+        "Application of Tone words",
+        "Common patterns in Tone words"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Tone words",
+      "example_solution": "Step-by-step approach to solving Tone words problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_ACADEMIC_VOCABU",
+      "category": "Reading",
+      "subcategory": "Vocabulary",
+      "topic": "Academic vocabulary",
+      "description": "Academic vocabulary is a valuable skill for the SAT Reading section, particularly in Vocabulary. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Academic vocabulary",
+        "Key principles of Academic vocabulary",
+        "Application of Academic vocabulary",
+        "Common patterns in Academic vocabulary"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Academic vocabulary",
+      "example_solution": "Step-by-step approach to solving Academic vocabulary problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_LITERARY_DEVICE",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Literary devices",
+      "description": "Literary devices is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Literary devices",
+        "Key principles of Literary devices",
+        "Application of Literary devices",
+        "Common patterns in Literary devices"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Literary devices",
+      "example_solution": "Step-by-step approach to solving Literary devices problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_FIGURATIVE_LANG",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Figurative language",
+      "description": "Figurative language is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Figurative language",
+        "Key principles of Figurative language",
+        "Application of Figurative language",
+        "Common patterns in Figurative language"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Figurative language",
+      "example_solution": "Step-by-step approach to solving Figurative language problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_SYMBOLISM",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Symbolism",
+      "description": "Symbolism is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Symbolism",
+        "Key principles of Symbolism",
+        "Application of Symbolism",
+        "Common patterns in Symbolism"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Symbolism",
+      "example_solution": "Step-by-step approach to solving Symbolism problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_THEME_IDENTIFIC",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Theme identification",
+      "description": "Theme identification is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Theme identification",
+        "Key principles of Theme identification",
+        "Application of Theme identification",
+        "Common patterns in Theme identification"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Theme identification",
+      "example_solution": "Step-by-step approach to solving Theme identification problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_CHARACTER_ANALY",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Character analysis",
+      "description": "Character analysis is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Character analysis",
+        "Key principles of Character analysis",
+        "Application of Character analysis",
+        "Common patterns in Character analysis"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Character analysis",
+      "example_solution": "Step-by-step approach to solving Character analysis problems",
+      "difficulty": "Hard",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_PLOT_STRUCTURE",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Plot structure",
+      "description": "Plot structure is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Plot structure",
+        "Key principles of Plot structure",
+        "Application of Plot structure",
+        "Common patterns in Plot structure"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Plot structure",
+      "example_solution": "Step-by-step approach to solving Plot structure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_READ_NARRATIVE_POINT",
+      "category": "Reading",
+      "subcategory": "Literary Analysis",
+      "topic": "Narrative point of view",
+      "description": "Narrative point of view is a valuable skill for the SAT Reading section, particularly in Literary Analysis. Mastery improves comprehension and analysis of test passages.",
+      "key_concepts": [
+        "Understanding Narrative point of view",
+        "Key principles of Narrative point of view",
+        "Application of Narrative point of view",
+        "Common patterns in Narrative point of view"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Reading question involving Narrative point of view",
+      "example_solution": "Step-by-step approach to solving Narrative point of view problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_THESIS_STATEMEN",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Thesis statements",
+      "description": "Thesis statements is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Thesis statements",
+        "Key principles of Thesis statements",
+        "Application of Thesis statements",
+        "Common patterns in Thesis statements"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Thesis statements",
+      "example_solution": "Step-by-step approach to solving Thesis statements problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_ESSAY_STRUCTURE",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Essay structure",
+      "description": "Essay structure is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Essay structure",
+        "Key principles of Essay structure",
+        "Application of Essay structure",
+        "Common patterns in Essay structure"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Essay structure",
+      "example_solution": "Step-by-step approach to solving Essay structure problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_INTRODUCTION_TE",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Introduction techniques",
+      "description": "Introduction techniques is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Introduction techniques",
+        "Key principles of Introduction techniques",
+        "Application of Introduction techniques",
+        "Common patterns in Introduction techniques"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Introduction techniques",
+      "example_solution": "Step-by-step approach to solving Introduction techniques problems",
+      "difficulty": "Easy",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_BODY_PARAGRAPH_",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Body paragraph development",
+      "description": "Body paragraph development is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Body paragraph development",
+        "Key principles of Body paragraph development",
+        "Application of Body paragraph development",
+        "Common patterns in Body paragraph development"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Body paragraph development",
+      "example_solution": "Step-by-step approach to solving Body paragraph development problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_CONCLUSION_STRA",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Conclusion strategies",
+      "description": "Conclusion strategies is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Conclusion strategies",
+        "Key principles of Conclusion strategies",
+        "Application of Conclusion strategies",
+        "Common patterns in Conclusion strategies"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Conclusion strategies",
+      "example_solution": "Step-by-step approach to solving Conclusion strategies problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_TRANSITIONS",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Transitions",
+      "description": "Transitions is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Transitions",
+        "Key principles of Transitions",
+        "Application of Transitions",
+        "Common patterns in Transitions"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Transitions",
+      "example_solution": "Step-by-step approach to solving Transitions problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_WRITE_EVIDENCE_INTEGR",
+      "category": "Writing",
+      "subcategory": "Essay Writing",
+      "topic": "Evidence integration",
+      "description": "Evidence integration is a key writing and grammar concept tested on the SAT Writing section, falling under Essay Writing. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Evidence integration",
+        "Key principles of Evidence integration",
+        "Application of Evidence integration",
+        "Common patterns in Evidence integration"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Writing question involving Evidence integration",
+      "example_solution": "Step-by-step approach to solving Evidence integration problems",
+      "difficulty": "Hard",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_ANSWER_ELIMINAT",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Answer elimination strategies",
+      "description": "Answer elimination strategies is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Answer elimination strategies",
+        "Key principles of Answer elimination strategies",
+        "Application of Answer elimination strategies",
+        "Common patterns in Answer elimination strategies"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Answer elimination strategies",
+      "example_solution": "Step-by-step approach to solving Answer elimination strategies problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_BACK_SOLVING_TE",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Back-solving techniques",
+      "description": "Back-solving techniques is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Back-solving techniques",
+        "Key principles of Back-solving techniques",
+        "Application of Back-solving techniques",
+        "Common patterns in Back-solving techniques"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Back-solving techniques",
+      "example_solution": "Step-by-step approach to solving Back-solving techniques problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_PLUGGING_IN_NUM",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Plugging in numbers",
+      "description": "Plugging in numbers is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Plugging in numbers",
+        "Key principles of Plugging in numbers",
+        "Application of Plugging in numbers",
+        "Common patterns in Plugging in numbers"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Plugging in numbers",
+      "example_solution": "Step-by-step approach to solving Plugging in numbers problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_READING_PASSAGE",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Reading passage strategies",
+      "description": "Reading passage strategies is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Reading passage strategies",
+        "Key principles of Reading passage strategies",
+        "Application of Reading passage strategies",
+        "Common patterns in Reading passage strategies"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Reading passage strategies",
+      "example_solution": "Step-by-step approach to solving Reading passage strategies problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_TIME_MANAGEMENT",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Time management per section",
+      "description": "Time management per section is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Time management per section",
+        "Key principles of Time management per section",
+        "Application of Time management per section",
+        "Common patterns in Time management per section"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Time management per section",
+      "example_solution": "Step-by-step approach to solving Time management per section problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_GUESSING_STRATE",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Guessing strategies",
+      "description": "Guessing strategies is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Guessing strategies",
+        "Key principles of Guessing strategies",
+        "Application of Guessing strategies",
+        "Common patterns in Guessing strategies"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Guessing strategies",
+      "example_solution": "Step-by-step approach to solving Guessing strategies problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    },
+    {
+      "id": "EDU_STRAT_ANSWER_SHEET_MA",
+      "category": "Strategy",
+      "subcategory": "Test-Taking",
+      "topic": "Answer sheet management",
+      "description": "Answer sheet management is an effective test-taking strategy for the SAT. This approach helps students maximize their performance on the Test-Taking section.",
+      "key_concepts": [
+        "Understanding Answer sheet management",
+        "Key principles of Answer sheet management",
+        "Application of Answer sheet management",
+        "Common patterns in Answer sheet management"
+      ],
+      "common_applications": [
+        "SAT Strategy questions",
+        "Practice problems",
+        "Test preparation",
+        "Real-world applications"
+      ],
+      "example_problem": "Example Strategy question involving Answer sheet management",
+      "example_solution": "Step-by-step approach to solving Answer sheet management problems",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Educational Resources"
+    }
+  ]
+}

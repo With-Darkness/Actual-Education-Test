@@ -1,0 +1,1678 @@
+{
+  "source": "Khan Academy",
+  "extraction_date": "2026-02-06",
+  "knowledge_points": [
+    {
+      "id": "MATH_LINEAR_EQUATIONS_IN_",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear equations in one variable",
+      "description": "Linear equations in one variable is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Linear equations in one variable",
+        "Application of Linear equations in one variable",
+        "Common patterns in Linear equations in one variable"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Linear equations in one variable",
+      "example_solution": "Step-by-step solution for Linear equations in one variable",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_LINEAR_EQUATIONS_IN_",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear equations in two variables",
+      "description": "Linear equations in two variables is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Linear equations in two variables",
+        "Application of Linear equations in two variables",
+        "Common patterns in Linear equations in two variables"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Linear equations in two variables",
+      "example_solution": "Step-by-step solution for Linear equations in two variables",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_LINEAR_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear functions",
+      "description": "Linear functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Linear functions",
+        "Application of Linear functions",
+        "Common patterns in Linear functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Linear functions",
+      "example_solution": "Step-by-step solution for Linear functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_SYSTEMS_OF_LINEAR_EQ",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Systems of linear equations",
+      "description": "Systems of linear equations is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Systems of linear equations",
+        "Application of Systems of linear equations",
+        "Common patterns in Systems of linear equations"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Systems of linear equations",
+      "example_solution": "Step-by-step solution for Systems of linear equations",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_LINEAR_INEQUALITIES",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Linear inequalities",
+      "description": "Linear inequalities is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Linear inequalities",
+        "Application of Linear inequalities",
+        "Common patterns in Linear inequalities"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Linear inequalities",
+      "example_solution": "Step-by-step solution for Linear inequalities",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_GRAPHING_LINEAR_EQUA",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Graphing linear equations",
+      "description": "Graphing linear equations is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Graphing linear equations",
+        "Application of Graphing linear equations",
+        "Common patterns in Graphing linear equations"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Graphing linear equations",
+      "example_solution": "Step-by-step solution for Graphing linear equations",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_QUADRATIC_EQUATIONS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Quadratic equations",
+      "description": "Quadratic equations is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Quadratic equations",
+        "Application of Quadratic equations",
+        "Common patterns in Quadratic equations"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Quadratic equations",
+      "example_solution": "Step-by-step solution for Quadratic equations",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_FACTORING_QUADRATICS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Factoring quadratics",
+      "description": "Factoring quadratics is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Factoring quadratics",
+        "Application of Factoring quadratics",
+        "Common patterns in Factoring quadratics"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Factoring quadratics",
+      "example_solution": "Step-by-step solution for Factoring quadratics",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_QUADRATIC_FORMULA",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Quadratic formula",
+      "description": "Quadratic formula is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Quadratic formula",
+        "Application of Quadratic formula",
+        "Common patterns in Quadratic formula"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Quadratic formula",
+      "example_solution": "Step-by-step solution for Quadratic formula",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_GRAPHING_QUADRATICS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Graphing quadratics",
+      "description": "Graphing quadratics is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Graphing quadratics",
+        "Application of Graphing quadratics",
+        "Common patterns in Graphing quadratics"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Graphing quadratics",
+      "example_solution": "Step-by-step solution for Graphing quadratics",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_POLYNOMIALS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Polynomials",
+      "description": "Polynomials is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Polynomials",
+        "Application of Polynomials",
+        "Common patterns in Polynomials"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Polynomials",
+      "example_solution": "Step-by-step solution for Polynomials",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RATIONAL_EXPRESSIONS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Rational expressions",
+      "description": "Rational expressions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Rational expressions",
+        "Application of Rational expressions",
+        "Common patterns in Rational expressions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Rational expressions",
+      "example_solution": "Step-by-step solution for Rational expressions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RADICALS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Radicals",
+      "description": "Radicals is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Radicals",
+        "Application of Radicals",
+        "Common patterns in Radicals"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Radicals",
+      "example_solution": "Step-by-step solution for Radicals",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_EXPONENTS",
+      "category": "Math",
+      "subcategory": "Algebra",
+      "topic": "Exponents",
+      "description": "Exponents is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Exponents",
+        "Application of Exponents",
+        "Common patterns in Exponents"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Exponents",
+      "example_solution": "Step-by-step solution for Exponents",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_NONLINEAR_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Nonlinear functions",
+      "description": "Nonlinear functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Nonlinear functions",
+        "Application of Nonlinear functions",
+        "Common patterns in Nonlinear functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Nonlinear functions",
+      "example_solution": "Step-by-step solution for Nonlinear functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_POLYNOMIAL_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Polynomial functions",
+      "description": "Polynomial functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Polynomial functions",
+        "Application of Polynomial functions",
+        "Common patterns in Polynomial functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Polynomial functions",
+      "example_solution": "Step-by-step solution for Polynomial functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RATIONAL_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Rational functions",
+      "description": "Rational functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Rational functions",
+        "Application of Rational functions",
+        "Common patterns in Rational functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Rational functions",
+      "example_solution": "Step-by-step solution for Rational functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RADICAL_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Radical functions",
+      "description": "Radical functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Radical functions",
+        "Application of Radical functions",
+        "Common patterns in Radical functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Radical functions",
+      "example_solution": "Step-by-step solution for Radical functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_EXPONENTIAL_FUNCTION",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Exponential functions",
+      "description": "Exponential functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Exponential functions",
+        "Application of Exponential functions",
+        "Common patterns in Exponential functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Exponential functions",
+      "example_solution": "Step-by-step solution for Exponential functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_LOGARITHMIC_FUNCTION",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Logarithmic functions",
+      "description": "Logarithmic functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Logarithmic functions",
+        "Application of Logarithmic functions",
+        "Common patterns in Logarithmic functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Logarithmic functions",
+      "example_solution": "Step-by-step solution for Logarithmic functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_TRIGONOMETRIC_FUNCTI",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Trigonometric functions",
+      "description": "Trigonometric functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Trigonometric functions",
+        "Application of Trigonometric functions",
+        "Common patterns in Trigonometric functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Trigonometric functions",
+      "example_solution": "Step-by-step solution for Trigonometric functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_FUNCTION_OPERATIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Function operations",
+      "description": "Function operations is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Function operations",
+        "Application of Function operations",
+        "Common patterns in Function operations"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Function operations",
+      "example_solution": "Step-by-step solution for Function operations",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_FUNCTION_COMPOSITION",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Function composition",
+      "description": "Function composition is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Function composition",
+        "Application of Function composition",
+        "Common patterns in Function composition"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Function composition",
+      "example_solution": "Step-by-step solution for Function composition",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_INVERSE_FUNCTIONS",
+      "category": "Math",
+      "subcategory": "Advanced Math",
+      "topic": "Inverse functions",
+      "description": "Inverse functions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Inverse functions",
+        "Application of Inverse functions",
+        "Common patterns in Inverse functions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Inverse functions",
+      "example_solution": "Step-by-step solution for Inverse functions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RATIOS_AND_PROPORTIO",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Ratios and proportions",
+      "description": "Ratios and proportions is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Ratios and proportions",
+        "Application of Ratios and proportions",
+        "Common patterns in Ratios and proportions"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Ratios and proportions",
+      "example_solution": "Step-by-step solution for Ratios and proportions",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_PERCENTAGES",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Percentages",
+      "description": "Percentages is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Percentages",
+        "Application of Percentages",
+        "Common patterns in Percentages"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Percentages",
+      "example_solution": "Step-by-step solution for Percentages",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_UNIT_CONVERSION",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Unit conversion",
+      "description": "Unit conversion is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Unit conversion",
+        "Application of Unit conversion",
+        "Common patterns in Unit conversion"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Unit conversion",
+      "example_solution": "Step-by-step solution for Unit conversion",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RATES",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Rates",
+      "description": "Rates is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Rates",
+        "Application of Rates",
+        "Common patterns in Rates"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Rates",
+      "example_solution": "Step-by-step solution for Rates",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_STATISTICS",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Statistics",
+      "description": "Statistics is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Statistics",
+        "Application of Statistics",
+        "Common patterns in Statistics"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Statistics",
+      "example_solution": "Step-by-step solution for Statistics",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_MEAN__MEDIAN__MODE",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Mean, median, mode",
+      "description": "Mean, median, mode is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Mean, median, mode",
+        "Application of Mean, median, mode",
+        "Common patterns in Mean, median, mode"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Mean, median, mode",
+      "example_solution": "Step-by-step solution for Mean, median, mode",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_STANDARD_DEVIATION",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Standard deviation",
+      "description": "Standard deviation is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Standard deviation",
+        "Application of Standard deviation",
+        "Common patterns in Standard deviation"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Standard deviation",
+      "example_solution": "Step-by-step solution for Standard deviation",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_DATA_INTERPRETATION",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Data interpretation",
+      "description": "Data interpretation is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Data interpretation",
+        "Application of Data interpretation",
+        "Common patterns in Data interpretation"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Data interpretation",
+      "example_solution": "Step-by-step solution for Data interpretation",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_SCATTERPLOTS",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Scatterplots",
+      "description": "Scatterplots is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Scatterplots",
+        "Application of Scatterplots",
+        "Common patterns in Scatterplots"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Scatterplots",
+      "example_solution": "Step-by-step solution for Scatterplots",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_PROBABILITY",
+      "category": "Math",
+      "subcategory": "Problem Solving and Data Analysis",
+      "topic": "Probability",
+      "description": "Probability is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Probability",
+        "Application of Probability",
+        "Common patterns in Probability"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Probability",
+      "example_solution": "Step-by-step solution for Probability",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_AREA_AND_VOLUME",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Area and volume",
+      "description": "Area and volume is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Area and volume",
+        "Application of Area and volume",
+        "Common patterns in Area and volume"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Area and volume",
+      "example_solution": "Step-by-step solution for Area and volume",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_CIRCLES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Circles",
+      "description": "Circles is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Circles",
+        "Application of Circles",
+        "Common patterns in Circles"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Circles",
+      "example_solution": "Step-by-step solution for Circles",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_TRIANGLES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Triangles",
+      "description": "Triangles is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Triangles",
+        "Application of Triangles",
+        "Common patterns in Triangles"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Triangles",
+      "example_solution": "Step-by-step solution for Triangles",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RIGHT_TRIANGLES",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Right triangles",
+      "description": "Right triangles is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Right triangles",
+        "Application of Right triangles",
+        "Common patterns in Right triangles"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Right triangles",
+      "example_solution": "Step-by-step solution for Right triangles",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_PYTHAGOREAN_THEOREM",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Pythagorean theorem",
+      "description": "Pythagorean theorem is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Pythagorean theorem",
+        "Application of Pythagorean theorem",
+        "Common patterns in Pythagorean theorem"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Pythagorean theorem",
+      "example_solution": "Step-by-step solution for Pythagorean theorem",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_TRIGONOMETRIC_RATIOS",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Trigonometric ratios",
+      "description": "Trigonometric ratios is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Trigonometric ratios",
+        "Application of Trigonometric ratios",
+        "Common patterns in Trigonometric ratios"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Trigonometric ratios",
+      "example_solution": "Step-by-step solution for Trigonometric ratios",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_SINE__COSINE__TANGEN",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Sine, cosine, tangent",
+      "description": "Sine, cosine, tangent is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Sine, cosine, tangent",
+        "Application of Sine, cosine, tangent",
+        "Common patterns in Sine, cosine, tangent"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Sine, cosine, tangent",
+      "example_solution": "Step-by-step solution for Sine, cosine, tangent",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_UNIT_CIRCLE",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Unit circle",
+      "description": "Unit circle is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Unit circle",
+        "Application of Unit circle",
+        "Common patterns in Unit circle"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Unit circle",
+      "example_solution": "Step-by-step solution for Unit circle",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "MATH_RADIAN_MEASURE",
+      "category": "Math",
+      "subcategory": "Geometry and Trigonometry",
+      "topic": "Radian measure",
+      "description": "Radian measure is an important concept in SAT mathematics. Understanding this topic is crucial for solving various types of problems on the exam.",
+      "key_concepts": [
+        "Understanding Radian measure",
+        "Application of Radian measure",
+        "Common patterns in Radian measure"
+      ],
+      "common_applications": [
+        "SAT Math questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Radian measure",
+      "example_solution": "Step-by-step solution for Radian measure",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_READING_FOR_UNDERSTA",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Reading for understanding",
+      "description": "Reading for understanding is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Reading for understanding",
+        "Application of Reading for understanding",
+        "Common patterns in Reading for understanding"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Reading for understanding",
+      "example_solution": "Step-by-step solution for Reading for understanding",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_CENTRAL_IDEAS_AND_TH",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Central ideas and themes",
+      "description": "Central ideas and themes is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Central ideas and themes",
+        "Application of Central ideas and themes",
+        "Common patterns in Central ideas and themes"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Central ideas and themes",
+      "example_solution": "Step-by-step solution for Central ideas and themes",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_SUMMARIZING",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Summarizing",
+      "description": "Summarizing is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Summarizing",
+        "Application of Summarizing",
+        "Common patterns in Summarizing"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Summarizing",
+      "example_solution": "Step-by-step solution for Summarizing",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_UNDERSTANDING_RELATI",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Understanding relationships",
+      "description": "Understanding relationships is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Understanding relationships",
+        "Application of Understanding relationships",
+        "Common patterns in Understanding relationships"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Understanding relationships",
+      "example_solution": "Step-by-step solution for Understanding relationships",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_INTERPRETING_WORDS_A",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Interpreting words and phrases in context",
+      "description": "Interpreting words and phrases in context is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Interpreting words and phrases in context",
+        "Application of Interpreting words and phrases in context",
+        "Common patterns in Interpreting words and phrases in context"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Interpreting words and phrases in context",
+      "example_solution": "Step-by-step solution for Interpreting words and phrases in context",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_TEXT_STRUC",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing text structure",
+      "description": "Analyzing text structure is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing text structure",
+        "Application of Analyzing text structure",
+        "Common patterns in Analyzing text structure"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing text structure",
+      "example_solution": "Step-by-step solution for Analyzing text structure",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_POINT_OF_V",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing point of view",
+      "description": "Analyzing point of view is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing point of view",
+        "Application of Analyzing point of view",
+        "Common patterns in Analyzing point of view"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing point of view",
+      "example_solution": "Step-by-step solution for Analyzing point of view",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_PURPOSE",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing purpose",
+      "description": "Analyzing purpose is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing purpose",
+        "Application of Analyzing purpose",
+        "Common patterns in Analyzing purpose"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing purpose",
+      "example_solution": "Step-by-step solution for Analyzing purpose",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_ARGUMENTS",
+      "category": "Reading",
+      "subcategory": "Information and Ideas",
+      "topic": "Analyzing arguments",
+      "description": "Analyzing arguments is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing arguments",
+        "Application of Analyzing arguments",
+        "Common patterns in Analyzing arguments"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing arguments",
+      "example_solution": "Step-by-step solution for Analyzing arguments",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_WORD_CHOIC",
+      "category": "Reading",
+      "subcategory": "Rhetoric",
+      "topic": "Analyzing word choice",
+      "description": "Analyzing word choice is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing word choice",
+        "Application of Analyzing word choice",
+        "Common patterns in Analyzing word choice"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing word choice",
+      "example_solution": "Step-by-step solution for Analyzing word choice",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_TEXT_STRUC",
+      "category": "Reading",
+      "subcategory": "Rhetoric",
+      "topic": "Analyzing text structure",
+      "description": "Analyzing text structure is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing text structure",
+        "Application of Analyzing text structure",
+        "Common patterns in Analyzing text structure"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing text structure",
+      "example_solution": "Step-by-step solution for Analyzing text structure",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_POINT_OF_V",
+      "category": "Reading",
+      "subcategory": "Rhetoric",
+      "topic": "Analyzing point of view",
+      "description": "Analyzing point of view is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing point of view",
+        "Application of Analyzing point of view",
+        "Common patterns in Analyzing point of view"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing point of view",
+      "example_solution": "Step-by-step solution for Analyzing point of view",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_PURPOSE",
+      "category": "Reading",
+      "subcategory": "Rhetoric",
+      "topic": "Analyzing purpose",
+      "description": "Analyzing purpose is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing purpose",
+        "Application of Analyzing purpose",
+        "Common patterns in Analyzing purpose"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing purpose",
+      "example_solution": "Step-by-step solution for Analyzing purpose",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_ARGUMENTS",
+      "category": "Reading",
+      "subcategory": "Rhetoric",
+      "topic": "Analyzing arguments",
+      "description": "Analyzing arguments is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing arguments",
+        "Application of Analyzing arguments",
+        "Common patterns in Analyzing arguments"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing arguments",
+      "example_solution": "Step-by-step solution for Analyzing arguments",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_ANALYZING_MULTIPLE_T",
+      "category": "Reading",
+      "subcategory": "Synthesis",
+      "topic": "Analyzing multiple texts",
+      "description": "Analyzing multiple texts is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Analyzing multiple texts",
+        "Application of Analyzing multiple texts",
+        "Common patterns in Analyzing multiple texts"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Analyzing multiple texts",
+      "example_solution": "Step-by-step solution for Analyzing multiple texts",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_UNDERSTANDING_RELATI",
+      "category": "Reading",
+      "subcategory": "Synthesis",
+      "topic": "Understanding relationships between texts",
+      "description": "Understanding relationships between texts is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Understanding relationships between texts",
+        "Application of Understanding relationships between texts",
+        "Common patterns in Understanding relationships between texts"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Understanding relationships between texts",
+      "example_solution": "Step-by-step solution for Understanding relationships between texts",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "READ_SYNTHESIZING_INFORMA",
+      "category": "Reading",
+      "subcategory": "Synthesis",
+      "topic": "Synthesizing information",
+      "description": "Synthesizing information is a key skill tested on the SAT Reading section. Mastery of this concept helps students better understand and analyze passages.",
+      "key_concepts": [
+        "Understanding Synthesizing information",
+        "Application of Synthesizing information",
+        "Common patterns in Synthesizing information"
+      ],
+      "common_applications": [
+        "SAT Reading questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Synthesizing information",
+      "example_solution": "Step-by-step solution for Synthesizing information",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_DEVELOPMENT",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Development",
+      "description": "Development is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Development",
+        "Application of Development",
+        "Common patterns in Development"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Development",
+      "example_solution": "Step-by-step solution for Development",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_ORGANIZATION",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Organization",
+      "description": "Organization is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Organization",
+        "Application of Organization",
+        "Common patterns in Organization"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Organization",
+      "example_solution": "Step-by-step solution for Organization",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_EFFECTIVE_LANGUAGE_U",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Effective language use",
+      "description": "Effective language use is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Effective language use",
+        "Application of Effective language use",
+        "Common patterns in Effective language use"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Effective language use",
+      "example_solution": "Step-by-step solution for Effective language use",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_PRECISION",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Precision",
+      "description": "Precision is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Precision",
+        "Application of Precision",
+        "Common patterns in Precision"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Precision",
+      "example_solution": "Step-by-step solution for Precision",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_CONCISE_WRITING",
+      "category": "Writing",
+      "subcategory": "Expression of Ideas",
+      "topic": "Concise writing",
+      "description": "Concise writing is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Concise writing",
+        "Application of Concise writing",
+        "Common patterns in Concise writing"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Concise writing",
+      "example_solution": "Step-by-step solution for Concise writing",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_SENTENCE_STRUCTURE",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Sentence structure",
+      "description": "Sentence structure is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Sentence structure",
+        "Application of Sentence structure",
+        "Common patterns in Sentence structure"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Sentence structure",
+      "example_solution": "Step-by-step solution for Sentence structure",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_CONVENTIONS_OF_USAGE",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Conventions of usage",
+      "description": "Conventions of usage is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Conventions of usage",
+        "Application of Conventions of usage",
+        "Common patterns in Conventions of usage"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Conventions of usage",
+      "example_solution": "Step-by-step solution for Conventions of usage",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_CONVENTIONS_OF_PUNCT",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Conventions of punctuation",
+      "description": "Conventions of punctuation is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Conventions of punctuation",
+        "Application of Conventions of punctuation",
+        "Common patterns in Conventions of punctuation"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Conventions of punctuation",
+      "example_solution": "Step-by-step solution for Conventions of punctuation",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_SUBJECT_VERB_AGREEME",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Subject-verb agreement",
+      "description": "Subject-verb agreement is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Subject-verb agreement",
+        "Application of Subject-verb agreement",
+        "Common patterns in Subject-verb agreement"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Subject-verb agreement",
+      "example_solution": "Step-by-step solution for Subject-verb agreement",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_PRONOUN_AGREEMENT",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Pronoun agreement",
+      "description": "Pronoun agreement is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Pronoun agreement",
+        "Application of Pronoun agreement",
+        "Common patterns in Pronoun agreement"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Pronoun agreement",
+      "example_solution": "Step-by-step solution for Pronoun agreement",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_VERB_FORMS",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Verb forms",
+      "description": "Verb forms is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Verb forms",
+        "Application of Verb forms",
+        "Common patterns in Verb forms"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Verb forms",
+      "example_solution": "Step-by-step solution for Verb forms",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_MODIFIERS",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Modifiers",
+      "description": "Modifiers is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Modifiers",
+        "Application of Modifiers",
+        "Common patterns in Modifiers"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Modifiers",
+      "example_solution": "Step-by-step solution for Modifiers",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_PARALLEL_STRUCTURE",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Parallel structure",
+      "description": "Parallel structure is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Parallel structure",
+        "Application of Parallel structure",
+        "Common patterns in Parallel structure"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Parallel structure",
+      "example_solution": "Step-by-step solution for Parallel structure",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_COMMA_USAGE",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Comma usage",
+      "description": "Comma usage is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Comma usage",
+        "Application of Comma usage",
+        "Common patterns in Comma usage"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Comma usage",
+      "example_solution": "Step-by-step solution for Comma usage",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_APOSTROPHES",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Apostrophes",
+      "description": "Apostrophes is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Apostrophes",
+        "Application of Apostrophes",
+        "Common patterns in Apostrophes"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Apostrophes",
+      "example_solution": "Step-by-step solution for Apostrophes",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    },
+    {
+      "id": "WRITE_COLONS_AND_SEMICOLON",
+      "category": "Writing",
+      "subcategory": "Standard English Conventions",
+      "topic": "Colons and semicolons",
+      "description": "Colons and semicolons is an essential grammar and writing concept tested on the SAT Writing section. Proper understanding ensures correct answers.",
+      "key_concepts": [
+        "Understanding Colons and semicolons",
+        "Application of Colons and semicolons",
+        "Common patterns in Colons and semicolons"
+      ],
+      "common_applications": [
+        "SAT Writing questions",
+        "Problem-solving strategies",
+        "Test-taking techniques"
+      ],
+      "example_problem": "Example problem related to Colons and semicolons",
+      "example_solution": "Step-by-step solution for Colons and semicolons",
+      "difficulty": "Medium",
+      "related_topics": [],
+      "source": "Khan Academy"
+    }
+  ]
+}
